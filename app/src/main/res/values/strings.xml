@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login Page</string>
+    <string name="tEmail">Email</string>
+    <string name="tPassword">Password</string>
+    <string name="bLogin">L O G I N</string>
+    <string name="tData">Data Anda</string>
+    <string name="txEmail">Email Anda </string>
+    <string name="txPassword">Password Anda </string>
+    <string name="label2">Login Success</string>
+</resources>
